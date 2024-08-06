@@ -12,10 +12,10 @@ You input the string you want to search for and a printout will be returned of w
 
 # Todo:
 
-Add OCR functionality for non-scanned pdf's
-Improve interface
-Include standard search options (case-sensitive etc.)
-Object-orient code
+- Add OCR functionality for non-scanned pdf's
+- Improve interface
+- Include standard search options (case-sensitive etc.)
+- Object-orient code
 
 # Known bugs
 If search string is found multiple times on given page, only the first is returned
