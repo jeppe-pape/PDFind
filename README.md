@@ -4,9 +4,9 @@ This is a very simple cmd-line based repo for quickly obtaining search results f
 
 
 ### To use:
-´´´
+```
 pip install PyPDF2
-´´´
+```
 Place the pdf's you want to search in the "issues" folder.
 
 You input the string you want to search for and a printout will be returned of where (issue, page) the given search string is found in the documents.
